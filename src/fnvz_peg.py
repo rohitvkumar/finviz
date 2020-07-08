@@ -25,15 +25,16 @@
 import requests, bs4, collections, argparse, json
 
 fin_url = "https://finviz.com/quote.ashx?t={sym}"
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
 def get_roa_roe(s, symbol):
-  page = s.get(fin_url.format(sym=symbol))
+  page = s.get(fin_url.format(sym=symbol), headers=headers)
   soup = bs4.BeautifulSoup(page.content, "lxml")
   
   try:
     elem = soup.find_all(text="ROA")
     roa = elem[0].parent.next_sibling.find('b').get_text().strip('%')
-  except:
+  except Exception as e:
     roa = "-"
   
   try:
