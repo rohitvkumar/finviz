@@ -83,7 +83,7 @@ def main():
   with requests.Session() as s:
     for sym in args.symbol:
       if sym == "SYMBOL":
-        print "EBIT NetInc TAssets TCurrLbl ROCE NICE"
+        print("EBIT;NetInc;TAssets;TCurrLbl;ROCE;NICE")
       else:
         assets, liabilities = get_assets_liabilities(s, sym)
         ebit, net_inc = get_ebit_netinc(s, sym)
@@ -97,7 +97,7 @@ def main():
         except:
           ROCE = -999
         
-        print "{} {} {} {} {} {}".format(ebit, net_inc, assets, liabilities, ROCE, NICE)
+        print("{};{};{};{};{};{}".format(ebit, net_inc, assets, liabilities, ROCE, NICE))
   return 0
 
 if __name__ == '__main__':

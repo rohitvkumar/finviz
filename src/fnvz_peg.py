@@ -76,8 +76,18 @@ def get_roa_roe(s, symbol):
     deq = elem[0].parent.next_sibling.find('b').get_text().strip('%')
   except:
     deq = 0
-  
-  return (roa, roe, div, peg, pe, eps1, deq)
+
+
+  try:
+    elem = soup.find_all("td", class_="fullview-links", align="center")[0].find_all("a")
+    sect = elem[0].get_text()
+    subs = elem[1].get_text()
+    cnty = elem[2].get_text()
+  except:
+    sect = '-'
+    subs = '-'
+    cnty = '-'
+  return (roa, roe, div, peg, pe, eps1, deq, sect, subs, cnty)
 
 def main():
   parser = argparse.ArgumentParser(description="Sort the files in a folder into subfloders based on create date")
@@ -86,9 +96,9 @@ def main():
   with requests.Session() as s:
     for sym in args.symbol:
       if sym == "SYMBOL":
-        print "PEG PEGD DY D/EQ EPS5Y PEF PE"
+        print("PEG;PEGD;DY;D/EQ;EPS5Y;PEF;PE;SECT;SUBS;CNTY;SYM")
       else:
-        roa, roe, div, pef, pe, eps, deq = get_roa_roe(s, sym)
+        roa, roe, div, pef, pe, eps, deq, sect, subs, cnty = get_roa_roe(s, sym)
         
         try:
           peg = round((float(pe) / float(eps)), 2)
@@ -100,7 +110,7 @@ def main():
         except:
           pegd = -999
           
-        print "{} {} {} {} {} {} {}".format(peg, pegd, div, deq, eps, pef, pe)
+        print("{};{};{};{};{};{};{};{};{};{};{}".format(peg, pegd, div, deq, eps, pef, pe, sect, subs, cnty, sym))
   return 0
 
 if __name__ == '__main__':
