@@ -79,6 +79,26 @@ def get_assets_liabilities(s, symbol):
     curr_liabilities = '-'
     
   return (assets, curr_liabilities)
+
+def get_yh_roce(s, sym):
+  if sym == "SYMBOL":
+    return("EBIT;NetInc;TotAssets;TotCurrLiab;ROCE;NICE;")
+  else:
+    ebit, net_inc = get_ebit_netinc(s, sym)
+    assets, liabilities = get_assets_liabilities(s, sym)
+      
+    try:
+      working_cap = int(assets.replace(",", "")) - int(liabilities.replace(",", ""))
+      NICE = round((float(net_inc.replace(",", "")) * 100 / working_cap), 2)
+    except:
+      NICE = -999
+      
+    try:
+      ROCE = round((float(ebit.replace(",", "")) * 100 / working_cap), 2)
+    except:
+      ROCE = -999
+    
+    return("{};{};{};{};{};{};".format(reduce(ebit), reduce(net_inc), reduce(assets), reduce(liabilities), ROCE, NICE))
     
 def main():
   parser = argparse.ArgumentParser(description="Sort the files in a folder into subfloders based on create date")
@@ -86,24 +106,7 @@ def main():
   args = parser.parse_args()
   with requests.Session() as s:
     for sym in args.symbol:
-      if sym == "SYMBOL":
-        print("EBIT;NetInc;TotAssets;TotCurrLiab;ROCE;NICE;")
-      else:
-        ebit, net_inc = get_ebit_netinc(s, sym)
-        assets, liabilities = get_assets_liabilities(s, sym)
-          
-        try:
-          working_cap = int(assets.replace(",", "")) - int(liabilities.replace(",", ""))
-          NICE = round((float(net_inc.replace(",", "")) * 100 / working_cap), 2)
-        except:
-          NICE = -999
-          
-        try:
-          ROCE = round((float(ebit.replace(",", "")) * 100 / working_cap), 2)
-        except:
-          ROCE = -999
-        
-        print("{};{};{};{};{};{};".format(reduce(ebit), reduce(net_inc), reduce(assets), reduce(liabilities), ROCE, NICE))
+      print(get_yh_roce(s,sym))
   return 0
 
 if __name__ == '__main__':

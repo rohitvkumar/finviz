@@ -89,28 +89,31 @@ def get_roa_roe(s, symbol):
     cnty = '-'
   return (roa, roe, div, peg, pe, eps1, deq, sect, subs, cnty)
 
+def get_fnvz_peg(s, sym):
+  if sym == "SYMBOL":
+    return("PEG;PEGD;DY;D/EQ;EPS5Y;PEF;PE;SECT;SUBS;CNTY;SYM")
+  else:
+    roa, roe, div, pef, pe, eps, deq, sect, subs, cnty = get_roa_roe(s, sym)
+    
+    try:
+      peg = round((float(pe) / float(eps)), 2)
+    except:
+      peg = -999
+      
+    try:
+      pegd = round((float(pe) /(float(eps) + float(div))), 2)
+    except:
+      pegd = -999
+      
+    return("{};{};{};{};{};{};{};{};{};{};{}".format(peg, pegd, div, deq, eps, pef, pe, sect, subs, cnty, sym))
+
 def main():
   parser = argparse.ArgumentParser(description="Sort the files in a folder into subfloders based on create date")
   parser.add_argument("-s", "--symbol", help="The symbol.", nargs='+')
   args = parser.parse_args()
   with requests.Session() as s:
     for sym in args.symbol:
-      if sym == "SYMBOL":
-        print("PEG;PEGD;DY;D/EQ;EPS5Y;PEF;PE;SECT;SUBS;CNTY;SYM")
-      else:
-        roa, roe, div, pef, pe, eps, deq, sect, subs, cnty = get_roa_roe(s, sym)
-        
-        try:
-          peg = round((float(pe) / float(eps)), 2)
-        except:
-          peg = -999
-          
-        try:
-          pegd = round((float(pe) /(float(eps) + float(div))), 2)
-        except:
-          pegd = -999
-          
-        print("{};{};{};{};{};{};{};{};{};{};{}".format(peg, pegd, div, deq, eps, pef, pe, sect, subs, cnty, sym))
+      print(get_fnvz_peg(s, sym))
   return 0
 
 if __name__ == '__main__':
