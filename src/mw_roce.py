@@ -32,7 +32,7 @@ tenpow = { 'T': 10**12, 'B': 10**9, 'M': 10**6, 'K': 10**3}
 def get_text_tag(soup, tag):
   try:
     elem = soup.find_all(text=tag)
-    text =  elem[0].parent.parent.find_all('td')[-2].get_text()
+    text =  elem[0].parent.parent.parent.find_all('td')[-2].get_text()
     return text
   except:
     return '-'
@@ -48,8 +48,8 @@ def get_ebit_netinc(s, symbol):
   soup = bs4.BeautifulSoup(page.content, "lxml")
   
   try:
-    elem = soup.find_all(text=" EBITDA")
-    text = elem[0].parent.parent.find_all('td')[-2].get_text()
+    elem = soup.find_all(text="EBITDA")
+    text = elem[0].parent.parent.parent.find_all('td')[-2].get_text()
     ebit = text
   except:
     ebit = '-'
@@ -63,14 +63,9 @@ def get_ebit_netinc(s, symbol):
 def get_assets_liabilities(s, symbol):
   page = s.get(balance_sheet_url.format(sym=symbol))
   soup = bs4.BeautifulSoup(page.content, "lxml")
-  try:
-    elem = soup.find_all(text=" Total Assets")
-    text =  elem[0].parent.parent.find_all('td')[-2].get_text()
-    assets = text
-  except:
-    assets = '-'
-    
-  curr_liabilities = get_text_tag(soup, " Total Current Liabilities")
+
+  assets = get_text_tag(soup, "Total Assets")
+  curr_liabilities = get_text_tag(soup, "Total Current Liabilities")
   if curr_liabilities == '-':
     curr_liabilities = get_text_tag(soup, "Other Liabilities")
     
@@ -80,8 +75,8 @@ def get_mw_roce(s, sym):
   if sym == "SYMBOL":
     return ("EBIT;NetInc;TAssets;TCurrLbl;ROCE;NICE")
   else:
-    assets, liabilities = get_assets_liabilities(s, sym)
     ebit, net_inc = get_ebit_netinc(s, sym)
+    assets, liabilities = get_assets_liabilities(s, sym)
     try:
       working_cap = text_to_float(assets) - text_to_float(liabilities)
       NICE = round((text_to_float(net_inc) * 100 / working_cap), 2)
