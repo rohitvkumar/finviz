@@ -47,13 +47,19 @@ def get_roa_roe(s, symbol):
     elem = soup.find_all(text="PEG")
     peg = elem[0].parent.next_sibling.find('b').get_text()
   except:
-    peg = 0
+    peg = "-"
     
   try:
     elem = soup.find_all(text="P/E")
     pe = elem[0].parent.next_sibling.find('b').get_text()
   except:
-    pe = 0
+    pe = "-"
+
+  try:
+    elem = soup.find_all(text="P/S")
+    ps = elem[0].parent.next_sibling.find('b').get_text()
+  except:
+    ps = "-"
   
   try:
     elem = soup.find_all(text="EPS past 5Y")
@@ -87,13 +93,13 @@ def get_roa_roe(s, symbol):
     sect = '-'
     subs = '-'
     cnty = '-'
-  return (roa, roe, div, peg, pe, eps1, deq, sect, subs, cnty)
+  return (roa, roe, div, peg, pe, ps, eps1, deq, sect, subs, cnty)
 
 def get_fnvz_peg(s, sym):
   if sym == "SYMBOL":
-    return("PEG;PEGD;DY;D/EQ;EPS5Y;PEF;PE;SECT;SUBS;CNTY;SYM")
+    return("PEG;PEGD;DY;D/EQ;EPS5Y;PS;PE;SECT;SUBS;CNTY;SYM")
   else:
-    roa, roe, div, pef, pe, eps, deq, sect, subs, cnty = get_roa_roe(s, sym)
+    roa, roe, div, pef, pe, ps, eps, deq, sect, subs, cnty = get_roa_roe(s, sym)
     
     try:
       peg = round((float(pe) / float(eps)), 2)
@@ -105,7 +111,7 @@ def get_fnvz_peg(s, sym):
     except:
       pegd = -999
       
-    return("{};{};{};{};{};{};{};{};{};{};{}".format(peg, pegd, div, deq, eps, pef, pe, sect, subs, cnty, sym))
+    return("{};{};{};{};{};{};{};{};{};{};{}".format(peg, pegd, div, deq, eps, ps, pe, sect, subs, cnty, sym))
 
 def main():
   parser = argparse.ArgumentParser(description="Sort the files in a folder into subfloders based on create date")
