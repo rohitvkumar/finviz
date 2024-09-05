@@ -70,7 +70,7 @@ def get_roa_roe(s, symbol):
   #elem = soup.find_all(text="EPS next 5Y")
   #eps2 = elem[0].parent.next_sibling.find('b').get_text().strip('%')
   try:
-    elem = soup.find_all(text="Dividend %")
+    elem = soup.find_all(text="Dividend TTM")
     div = elem[0].parent.next_sibling.find('b').get_text().strip('%')
     if div == '-':
       div = 0

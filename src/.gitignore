@@ -1,1 +1,3 @@
 /scraper.pyc
+__pycache__/
+*.pyc

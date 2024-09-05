@@ -45,6 +45,7 @@ def text_to_float(text):
 
 def get_ebit_netinc(s, symbol):
   page = s.get(financials_url.format(sym=symbol))
+  print(page.content)
   soup = bs4.BeautifulSoup(page.content, "lxml")
   
   try:
@@ -94,6 +95,7 @@ def main():
   parser.add_argument("-s", "--symbol", help="The symbol.", nargs='+')
   args = parser.parse_args()
   with requests.Session() as s:
+    s.headers.update({'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'})
     for sym in args.symbol:
       print(get_mw_roce(s, sym))
   return 0
