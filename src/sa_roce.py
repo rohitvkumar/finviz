@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  ROCE_yahoo.py
+#  mw_roce.py
 #  
 #  Copyright 2019 Rohit Valsakumar <rohit@rohit-Vostro-270s>
 #  
@@ -26,44 +26,15 @@ import argparse, bs4, time
 from requests_html import HTMLSession
 from headers import headers
 
-financials_url = "https://finance.yahoo.com/quote/{sym}/financials?p={sym}"
-balance_sheet_url = "https://finance.yahoo.com/quote/{sym}/balance-sheet?p={sym}"
+financials_url = "https://stockanalysis.com/stocks/{sym}/financials/"
+balance_sheet_url = "https://stockanalysis.com/stocks/{sym}/financials/balance-sheet/"
+
 tenpow = { 'T': 10**12, 'B': 10**9, 'M': 10**6, 'K': 10**3}
 
-def reduce(x):
-  try:
-    x = float(x.replace(",", "")) * 1000
-  except:
-    return x
-  if x >= tenpow['T'] or x <= -tenpow['T']:
-    return str(round(x / tenpow['T'], 2)) + 'T'
-  if x >= tenpow['B'] or x <= -tenpow['B']:
-    return str(round(x / tenpow['B'], 2)) + 'B'
-  if x >= tenpow['M'] or x <= -tenpow['M']:
-    return str(round(x / tenpow['M'], 2)) + 'M'
-  
 def get_text_tag(soup, tag):
   try:
     elem = soup.find_all(text=tag)
-    text =  elem[0].parent.parent.parent.find_all('div')[2].get_text()
-    return text
-  except:
-    return '-'
-  
-def get_text_tag_bs(soup, tag):
-  try:
-    elem = soup.find_all(text=tag)
-    text =  elem[0].parent.parent.parent.find_all('div')[3].get_text()
-    return text
-  except:
-    return '-'
-  
-def get_text_tag_bs_1(soup, tag):
-  try:
-    elem = soup.find('div', {"class": "rowTitle yf-1xjz32c", "title": "Total Liabilities Net Minority Interest"})
-    print(elem)
-    print('\n')
-    text =  elem[0].parent.parent.parent.find_all('div')[3].get_text()
+    text =  elem[0].parent.parent.parent.parent.find_all('td')[1].get_text()
     return text
   except:
     return '-'
@@ -76,8 +47,11 @@ def get_ebit_netinc(s, symbol):
   page.html.render()
   soup = bs4.BeautifulSoup(page.html.html, "lxml")
   
-  ebit = get_text_tag(soup, "Normalized EBITDA")
-  net_income = get_text_tag(soup, "Normalized Income")
+  ebit = get_text_tag(soup, "EBITDA")
+  
+  net_income = get_text_tag(soup, "Net Income After Extraordinaries")
+  if net_income == '-':
+    net_income = get_text_tag(soup, "Net Income to Common")
   
   return (ebit, net_income)
   
@@ -86,44 +60,40 @@ def get_assets_liabilities(s, symbol):
   page.html.render()
   soup = bs4.BeautifulSoup(page.html.html, "lxml")
 
-  assets = get_text_tag_bs(soup, "Total Assets")
-  curr_liabilities = get_text_tag_bs_1(soup, "Current Liabilities")
+  assets = get_text_tag(soup, "Total Assets")
+  curr_liabilities = get_text_tag(soup, "Total Current Liabilities")
+  if curr_liabilities == '-':
+    curr_liabilities = get_text_tag(soup, "Other Liabilities")
     
   return (assets, curr_liabilities)
 
-def get_yh_roce(s, sym):
-  if sym == "SYMBOL":
-    return("EBIT;NetInc;TotAssets;TotCurrLiab;ROCE;NICE;")
+def get_roce(s, sym):
+  if sym == "HDR":
+    return ("{:5};{:8};{:8};{:9};{:9};{:6};{:6}".format("SYM","EBIT","NetInc","TAssets","TCurrLbl","ROCE","NICE"))
   else:
     ebit, net_inc = get_ebit_netinc(s, sym)
-    time.sleep(2)
+    time.sleep(1)
     assets, liabilities = get_assets_liabilities(s, sym)
-      
     try:
-      working_cap = int(assets.replace(",", "")) - int(liabilities.replace(",", ""))
-      NICE = round((float(net_inc.replace(",", "")) * 100 / working_cap), 2)
+      working_cap = text_to_float(assets) - text_to_float(liabilities)
+      NICE = round((text_to_float(net_inc) * 100 / working_cap), 2)
     except:
       NICE = -999
-      
     try:
-      ROCE = round((float(ebit.replace(",", "")) * 100 / working_cap), 2)
+      ROCE = round((text_to_float(ebit) * 100 / working_cap), 2)
     except:
       ROCE = -999
     
-    return("{};{};{};{};{};{};".format(reduce(ebit), reduce(net_inc), reduce(assets), reduce(liabilities), ROCE, NICE))
-    
+    return ("{:5};{:8};{:8};{:9};{:9};{:6.2f};{:6.2f}".format(sym, ebit, net_inc, assets, liabilities, ROCE, NICE))
+  
 def main():
   parser = argparse.ArgumentParser(description="Sort the files in a folder into subfloders based on create date")
   parser.add_argument("-s", "--symbol", help="The symbol.", nargs='+')
   args = parser.parse_args()
-
-  custom_headers = headers
-  custom_headers['Host'] = 'finance.yahoo.com'
-
   with HTMLSession() as s:
-    s.headers.update(custom_headers)
+    s.headers.update(headers)
     for sym in args.symbol:
-      print(get_yh_roce(s,sym))
+      print(get_roce(s, sym))
   return 0
 
 if __name__ == '__main__':
