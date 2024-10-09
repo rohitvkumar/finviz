@@ -164,3 +164,240 @@ TKR   | Timken Co.                     | Industrial           |    79.20 | 715,5
 NASDAQ Bearish 50/200
 SMCI  | Super Micro Computer, Inc      | Technology           |   423.47 | 7,143,696
 ---------------------------------------------------------------------------------------------------------
+2024-09-05 14:30:01.934040
+NYSE Bearish 50/200
+MRK   | Merck & Co., Inc.              | Health Care          |   118.59 | 12,006,963
+CXT   | Crane NXT, Co.                 | Industrial           |    56.83 | 512,042
+LEVI  | Levi Strauss & Co.             | Consumer Discretiona |    18.82 | 1,119,863
+
+NASDAQ Bearish 50/200
+SNPS  | Synopsys, Inc.                 | Technology           |   476.03 | 1,204,427
+PTC   | PTC, Inc.                      | Technology           |   168.50 | 1,096,502
+CLSK  | CleanSpark, Inc.               | Technology           |     8.59 | 18,539,436
+---------------------------------------------------------------------------------------------------------
+2024-09-06 14:30:01.534045
+NYSE Bearish 50/200
+CVX   | Chevron Corp.                  | Energy               |   138.56 | 7,822,420
+F     | Ford Motor Co.                 | Consumer Discretiona |    10.58 | 45,713,253
+PAGS  | PagSeguro Digital Ltd.         | Technology           |     9.39 | 7,669,583
+VAL   | Valaris Ltd.                   | Energy               |    55.33 | 1,050,396
+ASH   | Ashland Global Holdings Inc.   | Materials            |    85.01 | 378,237
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-09-09 14:30:01.799209
+NYSE Bearish 50/200
+SW    | WestRock Co.                   | Materials            |    44.47 | 4,541,357
+WLK   | Westlake Chemical Corp.        | Materials            |   137.51 | 614,342
+
+NASDAQ Bearish 50/200
+CPRT  | Copart, Inc.                   | Industrial           |    49.42 | 5,243,796
+ASND  | Ascendis Pharma A/S            | Health Care          |   116.84 | 1,050,293
+HQY   | HealthEquity, Inc.             | Technology           |    76.31 | 772,952
+MEOH  | Methanex Corp.                 | Materials            |    39.10 | 1,465,854
+---------------------------------------------------------------------------------------------------------
+2024-09-10 14:30:01.437475
+NYSE Bearish 50/200
+ELF   | e.l.f. Beauty, Inc.            | Consumer Staples     |   110.46 | 3,920,603
+PR    | Permian Resources Corporation  | Energy               |    12.90 | 10,499,699
+TPR   | Tapestry, Inc.                 | Consumer Discretiona |    41.17 | 1,998,404
+APG   | APi Group Corp.                | Industrial           |    32.72 | 1,130,137
+BE    | Bloom Energy Corp.             | Industrial           |    10.15 | 3,408,154
+VRN   | Veren Inc.                     | Energy               |     6.27 | 5,166,090
+
+NASDAQ Bearish 50/200
+BECN  | Beacon Roofing Supply Inc.     | Consumer Discretiona |    80.11 | 912,721
+SBLK  | Star Bulk Carriers Corp.       | Industrial           |    19.93 | 2,632,371
+---------------------------------------------------------------------------------------------------------
+2024-09-11 14:30:01.499481
+NYSE Bearish 50/200
+CMG   | Chipotle Mexican Grill Inc.    | Consumer Discretiona |    55.79 | 12,796,177
+
+NASDAQ Bearish 50/200
+LRCX  | Lam Research Corp.             | Technology           |   766.85 | 1,985,368
+OKTA  | Okta, Inc.                     | Technology           |    73.34 | 2,306,805
+---------------------------------------------------------------------------------------------------------
+2024-09-12 14:30:01.291068
+NYSE Bearish 50/200
+SDRL  | Seadrill Ltd.                  | Energy               |    38.58 | 2,208,845
+FXN   | First Trust Energy AlphaDEX Fu |                      |    15.96 | 1,519,008
+
+NASDAQ Bearish 50/200
+TROW  | T. Rowe Price Associates, Inc. | Financial            |   104.87 | 1,370,749
+ACLS  | Axcelis Technologies, Inc.     | Technology           |    99.59 | 350,834
+---------------------------------------------------------------------------------------------------------
+2024-09-13 14:30:01.305279
+NYSE Bearish 50/200
+FCX   | Freeport-McMoRan, Inc.         | Materials            |    42.66 | 10,824,127
+VLO   | Valero Energy Corp             | Energy               |   134.26 | 2,123,984
+AA    | Alcoa Corp.                    | Materials            |    32.52 | 5,371,937
+CNM   | Core & Main Inc.               | Industrial           |    40.83 | 2,512,636
+NVT   | nVent Electric plc.            | Technology           |    65.83 | 1,410,797
+AOS   | Smith AO Corp.                 | Industrial           |    79.96 | 972,081
+INSW  | International Seaways, Inc.    | Industrial           |    49.32 | 476,357
+
+NASDAQ Bearish 50/200
+CG    | Carlyle Group LP               | Financial            |    40.05 | 2,645,424
+ARHS  | Arhaus Inc.                    | Consumer Discretiona |    12.45 | 2,065,781
+---------------------------------------------------------------------------------------------------------
+2024-09-16 14:30:02.134816
+NYSE Bearish 50/200
+CRGY  | Crescent Energy Company        | Energy               |    10.70 | 2,179,334
+
+NASDAQ Bearish 50/200
+MU    | Micron Technology, Inc.        | Technology           |    87.18 | 26,299,568
+---------------------------------------------------------------------------------------------------------
+2024-09-17 14:30:01.959049
+NYSE Bearish 50/200
+PRKS  | United Parks & Resorts, Inc.   | Consumer Discretiona |    51.28 | 900,394
+HCC   | Warrior Met Coal Inc.          | Energy               |    53.39 | 647,732
+
+NASDAQ Bearish 50/200
+ASML  | ASML Holding NV                | Technology           |   805.69 | 733,936
+GRAB  | Grab Holdings Limited          | Technology           |     3.57 | 26,812,679
+---------------------------------------------------------------------------------------------------------
+2024-09-18 14:30:01.392004
+NYSE Bearish 50/200
+SM    | SM Energy Co.                  | Energy               |    40.97 | 1,769,332
+GPOR  | Gulfport Energy Corp.          | Energy               |   148.04 | 171,909
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-09-19 14:30:02.020919
+NYSE Bearish 50/200
+AR    | Antero Resources Corp.         | Energy               |    27.25 | 3,380,199
+
+NASDAQ Bearish 50/200
+MKSI  | MKS Instruments, Inc.          | Technology           |   114.10 | 1,245,859
+WFRD  | Weatherford International Plc  | Energy               |    93.32 | 1,200,542
+---------------------------------------------------------------------------------------------------------
+2024-09-20 14:30:01.276971
+NYSE Bearish 50/200
+ASX   | Advanced Semiconductor         | Technology           |     9.88 | 12,919,533
+NABL  | N-able Inc.                    | Technology           |    12.93 | 1,731,778
+
+NASDAQ Bearish 50/200
+COIN  | Coinbase Global Inc.           | Technology           |   170.09 | 8,116,870
+CHX   | ChampionX Corporation          | Energy               |    30.54 | 3,612,787
+URBN  | Urban Outfitters, Inc.         | Consumer Discretiona |    36.77 | 2,919,873
+NEXT  | NextDecade Corp.               | Energy               |     4.72 | 8,534,243
+---------------------------------------------------------------------------------------------------------
+2024-09-23 14:30:01.923744
+NYSE Bearish 50/200
+UBER  | Uber Technologies, Inc.        | Technology           |    74.71 | 8,261,818
+
+NASDAQ Bearish 50/200
+MRVL  | Marvell Technology Inc         | Technology           |    71.81 | 14,410,182
+WDC   | Western Digital Corp.          | Technology           |    66.29 | 3,035,971
+---------------------------------------------------------------------------------------------------------
+2024-09-24 14:30:01.491519
+NYSE Bearish 50/200
+EWY   | iShares MSCI South Korea Cappe |                      |    65.04 | 5,483,729
+USO   | United States Oil Fund, LP     |                      |    73.28 | 2,372,591
+WMS   | Advanced Drainage Systems, Inc | Industrial           |   153.16 | 230,783
+QS    | QuantumScape Corporation       | Consumer Discretiona |     5.77 | 4,518,163
+
+NASDAQ Bearish 50/200
+AMAT  | Applied Materials, Inc.        | Technology           |   196.78 | 4,691,883
+AMKR  | Amkor Technology, Inc.         | Technology           |    30.40 | 1,688,733
+CGNX  | Cognex Corp.                   | Technology           |    39.60 | 1,076,570
+---------------------------------------------------------------------------------------------------------
+2024-09-25 14:30:01.419499
+NYSE Bearish 50/200
+DELL  | Dell Technologies, Inc.        | Technology           |   120.17 | 8,371,883
+VMC   | Vulcan Materials Co.           | Industrial           |   249.51 | 921,959
+XME   | SPDR S&P Metals and Mining ETF |                      |    62.85 | 1,865,268
+TTC   | Toro Co.                       | Industrial           |    85.92 | 624,721
+PPLT  | abrdn Physical Platinum Shares |                      |    90.68 | 238,626
+
+NASDAQ Bearish 50/200
+TCOM  | Trip.com Group Limited         | Consumer Discretiona |    51.08 | 16,361,229
+---------------------------------------------------------------------------------------------------------
+2024-09-26 14:30:01.220828
+NYSE Bearish 50/200
+TDW   | Tidewater, Inc.                | Energy               |    70.11 | 1,637,724
+HRL   | Hormel Foods Corp.             | Consumer Staples     |    31.57 | 3,314,803
+GAP   | Gap, Inc.                      | Consumer Discretiona |    21.05 | 4,806,109
+LBRT  | Liberty Oilfield Services Inc. | Energy               |    18.65 | 3,339,463
+ST    | Sensata Technologies Holding N | Technology           |    36.66 | 895,308
+AL    | Air Lease Corp.                | Industrial           |    45.35 | 647,622
+
+NASDAQ Bearish 50/200
+QCOM  | QUALCOMM Inc.                  | Technology           |   172.66 | 8,450,359
+FORM  | FormFactor Inc.                | Technology           |    46.90 | 496,118
+---------------------------------------------------------------------------------------------------------
+2024-09-27 14:30:01.796478
+NYSE Bearish 50/200
+TME   | Tencent Music Entertainment Gr | Communication Servic |    12.28 | 16,782,103
+CNQ   | Canadian Natural Resources Ltd | Energy               |    33.21 | 5,433,526
+CVE   | Cenovus Energy Inc.            | Energy               |    16.64 | 7,961,844
+
+NASDAQ Bearish 50/200
+NXPI  | NXP Semiconductor N.V.         | Technology           |   244.93 | 2,442,987
+MEDP  | Medpace Holdings, Inc.         | Health Care          |   331.44 | 485,538
+NBIX  | Neurocrine Biosciences, Inc.   | Health Care          |   115.06 | 935,353
+---------------------------------------------------------------------------------------------------------
+2024-09-30 14:30:01.834631
+NYSE Bearish 50/200
+
+NASDAQ Bearish 50/200
+QRVO  | Qorvo, Inc.                    | Technology           |   103.30 | 1,570,747
+AEIS  | Advanced Energy Industries, In | Technology           |   105.24 | 204,995
+---------------------------------------------------------------------------------------------------------
+2024-10-01 14:30:01.773647
+NYSE Bearish 50/200
+OBDC  | Blue Owl Capital Corporation   | Financial            |    14.40 | 2,341,976
+BXMT  | Blackstone Mortgage Trust, Inc | Real Estate          |    18.39 | 1,718,596
+
+NASDAQ Bearish 50/200
+BPMC  | Blueprint Medicines Corp.      | Health Care          |    90.00 | 815,409
+CAMT  | Camtek Ltd.                    | Technology           |    76.67 | 614,038
+---------------------------------------------------------------------------------------------------------
+2024-10-02 14:30:01.562780
+NYSE Bearish 50/200
+EMR   | Emerson Electric Co.           | Industrial           |   110.46 | 3,160,437
+BG    | Bunge Global SA                | Consumer Staples     |    96.94 | 1,459,186
+DXJ   | WisdomTree Japan Hedged Equity |                      |   107.79 | 1,179,340
+BLD   | TopBuild Corp.                 | Industrial           |   403.02 | 185,413
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-10-03 14:30:02.025791
+NYSE Bearish 50/200
+STNG  | Scorpio Tankers Inc.           | Industrial           |    74.31 | 683,510
+CMC   | Commercial Metals Co.          | Materials            |    52.65 | 640,452
+GEO   | GEO Group, Inc.                | Real Estate          |    13.32 | 1,890,695
+
+NASDAQ Bearish 50/200
+RIVN  | Rivian Automotive Inc.         | Consumer Discretiona |    10.78 | 20,536,029
+RPRX  | Royalty Pharma Plc             | Health Care          |    27.75 | 1,338,839
+LEGN  | Legend Biotech Corp            | Health Care          |    47.79 | 518,587
+---------------------------------------------------------------------------------------------------------
+2024-10-04 14:30:01.720167
+NYSE Bearish 50/200
+FERG  | Ferguson Plc.                  | Industrial           |   194.95 | 2,321,546
+FUN   | Six Flags Entertainment Corp.  | Consumer Discretiona |    37.59 | 1,811,493
+
+NASDAQ Bearish 50/200
+APPF  | AppFolio, Inc.                 | Technology           |   227.12 | 181,118
+---------------------------------------------------------------------------------------------------------
+2024-10-07 14:30:01.894267
+NYSE Bearish 50/200
+
+NASDAQ Bearish 50/200
+MDGL  | Madrigal Pharmaceuticals, Inc. | Health Care          |   214.83 | 464,655
+LSTR  | Landstar System, Inc.          | Industrial           |   183.09 | 441,669
+IONS  | Ionis Pharmaceuticals, Inc.    | Health Care          |    37.86 | 1,557,018
+---------------------------------------------------------------------------------------------------------
+2024-10-08 14:30:01.638526
+NYSE Bearish 50/200
+WFC   | Wells Fargo & Co.              | Financial            |    57.30 | 12,028,280
+TXT   | Textron, Inc.                  | Industrial           |    84.95 | 1,224,251
+OMF   | OneMain Holdings, Inc.         | Financial            |    45.77 | 1,061,972
+BROS  | Dutch Bros Inc.                | Consumer Discretiona |    31.77 | 1,274,647
+VVV   | Valvoline Inc.                 | Materials            |    39.87 | 951,235
+
+NASDAQ Bearish 50/200
+SWKS  | Skyworks Solutions Inc.        | Technology           |    96.14 | 2,188,041
+NWL   | Newell Brands Inc.             | Consumer Discretiona |     7.35 | 3,648,243
+---------------------------------------------------------------------------------------------------------
