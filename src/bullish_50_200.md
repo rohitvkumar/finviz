@@ -417,3 +417,39 @@ GL    | Globe Life Inc.                | Financial            |   104.18 | 369,8
 NASDAQ Bullish 50/200
 MRVL  | Marvell Technology Inc         | Technology           |    73.11 | 9,743,798
 ---------------------------------------------------------------------------------------------------------
+2024-10-09 14:30:01.164652
+NYSE Bullish 50/200
+NCLH  | Norwegian Cruise Line Holdings | Consumer Discretiona |    23.07 | 30,769,285
+WY    | Weyerhaeuser Co.               | Real Estate          |    33.06 | 5,214,046
+XPEV  | XPeng, Inc.                    | Consumer Discretiona |    12.55 | 12,141,368
+CNQ   | Canadian Natural Resources Ltd | Energy               |    36.54 | 4,153,243
+S     | SentinelOne Inc.               | Technology           |    25.11 | 4,448,369
+BWA   | BorgWarner, Inc.               | Consumer Discretiona |    35.08 | 1,036,852
+
+NASDAQ Bullish 50/200
+AFRM  | Affirm Holdings Inc.           | Technology           |    43.25 | 13,548,695
+---------------------------------------------------------------------------------------------------------
+2024-10-10 14:30:01.271093
+NYSE Bullish 50/200
+YUMC  | Yum China Holdings, Inc.       | Consumer Discretiona |    47.30 | 2,934,364
+
+NASDAQ Bullish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-10-11 14:30:01.767305
+NYSE Bullish 50/200
+ITW   | Illinois Tool Works, Inc.      | Industrial           |   260.51 | 659,261
+TWLO  | Twilio Inc.                    | Technology           |    70.25 | 1,439,391
+
+NASDAQ Bullish 50/200
+SOFI  | SoFi Technologies, Inc.        | Financial            |     9.01 | 41,929,500
+ROKU  | Roku, Inc.                     | Technology           |    78.37 | 2,206,492
+---------------------------------------------------------------------------------------------------------
+2024-10-14 14:30:01.398642
+NYSE Bullish 50/200
+RJF   | Raymond James Financial Inc.   | Financial            |   130.23 | 904,900
+XME   | SPDR S&P Metals and Mining ETF |                      |    64.63 | 1,028,117
+
+NASDAQ Bullish 50/200
+TRMB  | Trimble Inc.                   | Technology           |    63.05 | 777,209
+NCNO  | Ncino Inc.                     | Technology           |    35.07 | 1,282,597
+---------------------------------------------------------------------------------------------------------
