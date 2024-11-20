@@ -721,3 +721,13 @@ JBHT  | J.B. Hunt Transport Services,  | Industrial           |   180.18 | 884,1
 WMG   | Warner Music Group Corp        | Communication Servic |    32.93 | 1,184,530
 GBDC  | Golub Capital BDC Inc.         | Financial            |    15.53 | 1,717,370
 ---------------------------------------------------------------------------------------------------------
+2024-11-20 14:30:01.350141
+NYSE Bullish 50/200
+RHI   | Robert Half Intl, Inc.         | Industrial           |    72.61 | 788,236
+HCC   | Warrior Met Coal Inc.          | Energy               |    69.97 | 590,820
+
+NASDAQ Bullish 50/200
+ANSS  | ANSYS, Inc.                    | Technology           |   342.24 | 460,005
+MDGL  | Madrigal Pharmaceuticals, Inc. | Health Care          |   317.09 | 277,156
+JAZZ  | Jazz Pharmaceuticals, Inc.     | Health Care          |   119.24 | 406,858
+---------------------------------------------------------------------------------------------------------

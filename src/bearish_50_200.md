@@ -635,3 +635,14 @@ NYSE Bearish 50/200
 NASDAQ Bearish 50/200
 AZN   | Astrazeneca PLC                | Health Care          |    63.80 | 4,868,416
 ---------------------------------------------------------------------------------------------------------
+2024-11-20 14:30:01.349030
+NYSE Bearish 50/200
+A     | Agilent Technologies, Inc.     | Health Care          |   128.57 | 1,691,586
+AVTR  | Avantor, Inc.                  | Materials            |    20.14 | 7,951,443
+BALL  | Ball Corp.                     | Materials            |    60.42 | 1,752,590
+
+NASDAQ Bearish 50/200
+SOXX  | iShares Semiconductor ETF      |                      |   212.71 | 3,965,884
+TMDX  | Transmedics Group Inc.         | Health Care          |    77.20 | 2,889,631
+DYN   | Dyne Therapeutics Inc.         |                      |    29.99 | 1,087,662
+---------------------------------------------------------------------------------------------------------
