@@ -453,3 +453,271 @@ NASDAQ Bullish 50/200
 TRMB  | Trimble Inc.                   | Technology           |    63.05 | 777,209
 NCNO  | Ncino Inc.                     | Technology           |    35.07 | 1,282,597
 ---------------------------------------------------------------------------------------------------------
+2024-10-15 14:30:02.120284
+NYSE Bullish 50/200
+WFC   | Wells Fargo & Co.              | Financial            |    63.03 | 24,674,785
+AA    | Alcoa Corp.                    | Materials            |    41.30 | 4,556,972
+BAX   | Baxter Intl Inc.               | Health Care          |    36.65 | 3,927,293
+FND   | Floor & Decor Holdings, Inc.   | Consumer Discretiona |   113.12 | 1,107,156
+NOG   | Northern Oil and Gas, Inc.     | Energy               |    37.60 | 1,598,382
+CRGY  | Crescent Energy Company        | Energy               |    12.48 | 2,731,554
+
+NASDAQ Bullish 50/200
+RRR   | Red Rock Resorts, Inc.         | Consumer Discretiona |    52.11 | 459,176
+---------------------------------------------------------------------------------------------------------
+2024-10-16 14:30:01.845415
+NYSE Bullish 50/200
+KEYS  | Keysight Technologies Inc.     | Technology           |   157.25 | 959,735
+GLOB  | Globant SA                     | Technology           |   216.36 | 674,442
+THO   | Thor Industries, Inc.          | Consumer Discretiona |   114.61 | 707,024
+SSD   | Simpson Mfg Co, Inc.           | Industrial           |   188.85 | 393,336
+CRC   | California Resources Corp.     | Energy               |    51.89 | 1,172,876
+CHE   | Chemed Corp.                   | Health Care          |   607.26 | 99,395
+NLR   | VanEck Vectors Uranium+Nuclear |                      |    94.44 | 488,125
+
+NASDAQ Bullish 50/200
+LSTR  | Landstar System, Inc.          | Industrial           |   191.76 | 319,959
+PENN  | Penn National Gaming, Inc.     | Consumer Discretiona |    18.74 | 3,161,604
+---------------------------------------------------------------------------------------------------------
+2024-10-17 14:30:01.728371
+NYSE Bullish 50/200
+DAL   | Delta Air Lines Inc.           | Industrial           |    55.26 | 8,211,046
+RIO   | Rio Tinto PLC                  | Materials            |    65.09 | 3,642,055
+LUV   | Southwest Airlines Co.         | Industrial           |    30.09 | 7,442,276
+WBS   | Webster Financial Corp.        | Financial            |    54.24 | 3,774,238
+ALK   | Alaska Air Group, Inc.         | Industrial           |    45.65 | 1,712,952
+GFI   | Gold Fields Ltd.               | Materials            |    17.25 | 3,705,944
+BTU   | Peabody Energy Corp.           | Energy               |    25.30 | 2,251,661
+HRI   | Herc Holdings Inc.             | Industrial           |   173.13 | 299,229
+BHVN  | Biohaven Ltd.                  | Health Care          |    51.61 | 972,673
+GMS   | GMS Inc.                       | Industrial           |    95.93 | 352,963
+DXJ   | WisdomTree Japan Hedged Equity |                      |   108.57 | 308,111
+XSD   | SPDR S&P Semiconductor ETF     |                      |   243.29 | 83,274
+
+NASDAQ Bullish 50/200
+CMCSA | Comcast Corp.                  | Communication Servic |    42.23 | 16,099,997
+NTNX  | Nutanix, Inc.                  | Technology           |    64.36 | 1,950,792
+TTWO  | Take-Two Interactive Software, | Communication Servic |   154.79 | 801,755
+AEIS  | Advanced Energy Industries, In | Technology           |   111.05 | 218,413
+---------------------------------------------------------------------------------------------------------
+2024-10-18 14:30:01.767929
+NYSE Bullish 50/200
+TGT   | Target Corp.                   | Consumer Staples     |   156.84 | 2,985,787
+NIO   | NIO Inc.                       | Consumer Discretiona |     5.22 | 66,464,322
+FDS   | Factset Research Sys, Inc.     | Financial            |   471.31 | 255,108
+WHR   | Whirlpool Corp.                | Consumer Discretiona |   107.18 | 656,348
+
+NASDAQ Bullish 50/200
+NDSN  | Nordson Corp.                  | Industrial           |   257.17 | 268,540
+CZR   | Caesars Entertainment, Inc.    | Consumer Discretiona |    45.18 | 1,516,615
+---------------------------------------------------------------------------------------------------------
+2024-10-21 14:30:01.994178
+NYSE Bullish 50/200
+ARE   | Alexandria R E Eqty, Inc.      | Real Estate          |   119.52 | 1,804,342
+OMF   | OneMain Holdings, Inc.         | Financial            |    46.60 | 827,326
+CWH   | Camping World Holdings, Inc.   | Consumer Discretiona |    21.29 | 1,342,699
+
+NASDAQ Bullish 50/200
+MAR   | Marriott International, Inc.   | Consumer Discretiona |   264.97 | 854,625
+CG    | Carlyle Group LP               | Financial            |    51.33 | 2,507,648
+---------------------------------------------------------------------------------------------------------
+2024-10-22 14:30:01.211548
+NYSE Bullish 50/200
+FCX   | Freeport-McMoRan, Inc.         | Materials            |    48.53 | 14,188,990
+ADM   | Archer Daniels Midland Co.     | Consumer Staples     |    55.69 | 2,304,086
+AG    | First Majestic Silver Corp.    | Materials            |     7.92 | 15,772,223
+
+NASDAQ Bullish 50/200
+RPRX  | Royalty Pharma Plc             | Health Care          |    27.37 | 2,253,850
+---------------------------------------------------------------------------------------------------------
+2024-10-23 14:30:01.790776
+NYSE Bullish 50/200
+DELL  | Dell Technologies, Inc.        | Technology           |   119.49 | 4,533,108
+GXO   | GXO Logistics Inc.             | Industrial           |    61.46 | 886,878
+MP    | MP Materials Corp.             | Materials            |    17.88 | 1,988,399
+GEO   | GEO Group, Inc.                | Real Estate          |    15.29 | 2,207,304
+
+NASDAQ Bullish 50/200
+DBX   | Dropbox, Inc.                  | Technology           |    25.79 | 2,333,379
+NWL   | Newell Brands Inc.             | Consumer Discretiona |     7.32 | 5,142,684
+HQY   | HealthEquity, Inc.             | Technology           |    87.61 | 374,850
+---------------------------------------------------------------------------------------------------------
+2024-10-24 14:30:01.790613
+NYSE Bullish 50/200
+CNP   | CenterPoint Energy, Inc.       | Utilities            |    29.48 | 4,074,714
+BMO   | Bank Of Montreal               | Financial            |    93.39 | 942,068
+
+NASDAQ Bullish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-10-25 14:30:01.978671
+NYSE Bullish 50/200
+WTS   | Watts Water Technologies, Inc. | Industrial           |   197.04 | 110,556
+
+NASDAQ Bullish 50/200
+WEN   | Wendy's Co.                    | Consumer Discretiona |    19.54 | 3,061,051
+MASI  | Masimo Corp.                   | Health Care          |   139.33 | 357,021
+FOLD  | Amicus Therapeutics, Inc.      | Health Care          |    11.69 | 1,875,533
+---------------------------------------------------------------------------------------------------------
+2024-10-28 14:30:01.926991
+NYSE Bullish 50/200
+WCC   | Wesco Intl, Inc.               | Technology           |   179.44 | 735,748
+RHP   | Ryman Hospitality Properties,  | Real Estate          |   109.89 | 440,180
+
+NASDAQ Bullish 50/200
+JBLU  | JetBlue Airways Corp.          | Industrial           |     7.32 | 13,416,315
+---------------------------------------------------------------------------------------------------------
+2024-10-29 14:30:01.320490
+NYSE Bullish 50/200
+
+NASDAQ Bullish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-10-30 14:30:01.561397
+NYSE Bullish 50/200
+CMG   | Chipotle Mexican Grill Inc.    | Consumer Discretiona |    55.73 | 28,290,299
+DAY   | Dayforce Inc.                  | Industrial           |    70.08 | 4,396,067
+BHP   | BHP Group Limited              | Materials            |    56.42 | 1,585,793
+
+NASDAQ Bullish 50/200
+IRDM  | Iridium Communications Inc.    | Communication Servic |    29.50 | 858,580
+---------------------------------------------------------------------------------------------------------
+2024-10-31 14:30:01.234674
+NYSE Bullish 50/200
+CRM   | Salesforce.com, Inc.           | Technology           |   291.37 | 4,264,487
+CCJ   | Cameco Corp.                   | Materials            |    52.22 | 4,851,803
+SUM   | Summit Materials Inc.          | Industrial           |    47.41 | 2,286,638
+JBT   | John Bean Technologies Corp.   | Industrial           |   111.42 | 315,736
+
+NASDAQ Bullish 50/200
+HTHT  | H World Group Limited          | Consumer Discretiona |    36.69 | 1,340,096
+---------------------------------------------------------------------------------------------------------
+2024-11-01 14:30:01.246382
+NYSE Bullish 50/200
+LVS   | Las Vegas Sands Corp.          | Consumer Discretiona |    51.73 | 4,846,397
+
+NASDAQ Bullish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-11-04 14:30:01.210897
+NYSE Bullish 50/200
+SEE   | Sealed Air Corp New            | Materials            |    36.27 | 1,450,796
+
+NASDAQ Bullish 50/200
+VRSN  | VeriSign, Inc.                 | Technology           |   177.86 | 538,118
+---------------------------------------------------------------------------------------------------------
+2024-11-05 14:30:01.576906
+NYSE Bullish 50/200
+SW    | WestRock Co.                   | Materials            |    51.82 | 4,240,035
+BHC   | Bausch Health Cos. Inc.        | Health Care          |     9.69 | 2,345,615
+
+NASDAQ Bullish 50/200
+PINC  | Premier, Inc.                  | Industrial           |    22.67 | 2,539,259
+---------------------------------------------------------------------------------------------------------
+2024-11-06 14:30:02.002597
+NYSE Bullish 50/200
+VIXY  | ProShares VIX Short-Term Futur |                      |    11.44 | 4,999,286
+
+NASDAQ Bullish 50/200
+OZK   | Bank OZK                       | Financial            |    49.33 | 3,597,158
+---------------------------------------------------------------------------------------------------------
+2024-11-07 14:30:01.310841
+NYSE Bullish 50/200
+PAYC  | Paycom Software, Inc.          | Industrial           |   227.19 | 587,746
+APLE  | Apple Hospitality REIT, Inc.   | Real Estate          |    15.61 | 1,834,236
+JKS   | Jinkosolar Holding Co. Ltd.    | Technology           |    24.56 | 1,149,702
+
+NASDAQ Bullish 50/200
+PTC   | PTC, Inc.                      | Technology           |   190.05 | 1,664,226
+---------------------------------------------------------------------------------------------------------
+2024-11-08 14:30:01.214946
+NYSE Bullish 50/200
+NET   | Cloudflare Inc.                | Technology           |    91.25 | 7,771,746
+EMR   | Emerson Electric Co.           | Industrial           |   127.26 | 2,748,131
+BROS  | Dutch Bros Inc.                | Consumer Discretiona |    47.18 | 5,870,622
+PRKS  | United Parks & Resorts, Inc.   | Consumer Discretiona |    56.77 | 855,931
+
+NASDAQ Bullish 50/200
+ODFL  | Old Dominion Freight Line, Inc | Industrial           |   226.11 | 1,092,553
+WERN  | Werner Enterprises, Inc.       | Industrial           |    40.66 | 780,751
+APPN  | Appian Corp                    | Technology           |    40.78 | 503,192
+---------------------------------------------------------------------------------------------------------
+2024-11-11 14:30:01.878441
+NYSE Bullish 50/200
+JOBY  | Joby Aviation, Inc.            |                      |     6.27 | 40,507,422
+FLG   | Flagstar Financial, Inc.       | Financial            |    11.45 | 7,524,317
+ALTM  | Arcadium Lithium plc           | Materials            |     5.37 | 11,900,259
+GGG   | Graco, Inc.                    | Industrial           |    89.08 | 573,394
+
+NASDAQ Bullish 50/200
+POOL  | SCP Pool Corp.                 | Consumer Discretiona |   374.99 | 198,892
+---------------------------------------------------------------------------------------------------------
+2024-11-12 14:30:01.645248
+NYSE Bullish 50/200
+SQ    | Block, Inc.                    | Technology           |    87.25 | 15,026,219
+AME   | Ametek, Inc.                   | Industrial           |   194.00 | 1,867,063
+URA   | Global X Uranium ETF           |                      |    30.72 | 3,968,926
+SIG   | Signet Jewelers Ltd.           | Consumer Discretiona |    98.59 | 560,081
+GMS   | GMS Inc.                       | Industrial           |   101.42 | 462,816
+
+NASDAQ Bullish 50/200
+EXE   | Expand Energy Corporation      | Energy               |    95.58 | 2,212,043
+---------------------------------------------------------------------------------------------------------
+2024-11-13 14:30:01.295636
+NYSE Bullish 50/200
+XLE   | Energy Select Sector SPDR Fund |                      |    94.51 | 11,561,936
+EQT   | EQT Corp.                      | Energy               |    43.31 | 7,588,335
+
+NASDAQ Bullish 50/200
+TEAM  | Atlassian Corp.                | Technology           |   252.78 | 2,543,294
+LSTR  | Landstar System, Inc.          | Industrial           |   189.80 | 282,759
+---------------------------------------------------------------------------------------------------------
+2024-11-14 14:30:02.036193
+NYSE Bullish 50/200
+VMC   | Vulcan Materials Co.           | Industrial           |   282.68 | 927,358
+BILL  | Bill.com Holdings Inc.         | Technology           |    86.38 | 1,882,227
+GFF   | Griffon Corp.                  | Industrial           |    77.39 | 1,174,579
+WK    | Workiva Inc.                   | Technology           |    93.23 | 502,909
+VDE   | Vanguard Energy ETF            |                      |   132.69 | 298,643
+BC    | Brunswick Corp.                | Consumer Discretiona |    80.88 | 271,189
+NVST  | Envista Holdings Corp.         | Health Care          |    20.08 | 1,036,139
+
+NASDAQ Bullish 50/200
+BL    | BlackLine, Inc.                | Technology           |    60.56 | 493,287
+---------------------------------------------------------------------------------------------------------
+2024-11-15 14:30:01.445105
+NYSE Bullish 50/200
+COR   | Cencora Inc.                   | Health Care          |   240.24 | 1,839,589
+CNH   | CNH Industrial NV              | Industrial           |    10.90 | 20,666,836
+RNG   | RingCentral Inc.               | Technology           |    35.78 | 1,101,922
+SHO   | Sunstone Hotel Investors, Inc. | Real Estate          |    10.10 | 2,183,799
+
+NASDAQ Bullish 50/200
+INTU  | Intuit, Inc.                   | Technology           |   687.87 | 1,734,588
+WYNN  | Wynn Resorts Ltd               | Consumer Discretiona |    90.74 | 3,816,558
+STLD  | Steel Dynamics, Inc.           | Materials            |   139.41 | 1,297,620
+BHF   | Brighthouse Financial, Inc.    | Financial            |    50.97 | 560,779
+---------------------------------------------------------------------------------------------------------
+2024-11-18 14:30:01.571859
+NYSE Bullish 50/200
+PEN   | Penumbra, Inc.                 | Health Care          |   240.48 | 616,136
+JBL   | Jabil, Inc.                    | Technology           |   128.29 | 740,083
+CMC   | Commercial Metals Co.          | Materials            |    59.64 | 608,086
+REZI  | Resideo Technologies, Inc.     | Consumer Discretiona |    25.60 | 954,861
+
+NASDAQ Bullish 50/200
+SOXX  | iShares Semiconductor ETF      |                      |   213.94 | 2,420,080
+DDOG  | Datadog Inc.                   | Technology           |   125.97 | 2,883,662
+LPLA  | LPL Financial Holdings Inc.    | Financial            |   314.77 | 559,709
+TROW  | T. Rowe Price Associates, Inc. | Financial            |   118.66 | 1,299,623
+GTLB  | Gitlab Inc.                    | Technology           |    59.96 | 1,311,310
+---------------------------------------------------------------------------------------------------------
+2024-11-19 14:30:01.570324
+NYSE Bullish 50/200
+SCHW  | Charles Schwab Corp.           | Financial            |    80.19 | 6,139,386
+ROK   | Rockwell Automation            | Industrial           |   278.14 | 944,243
+
+NASDAQ Bullish 50/200
+WBD   | Warner Bros. Discovery Inc.    | Communication Servic |     9.50 | 29,877,510
+BECN  | Beacon Roofing Supply Inc.     | Consumer Discretiona |   109.24 | 1,856,392
+JBHT  | J.B. Hunt Transport Services,  | Industrial           |   180.18 | 884,155
+WMG   | Warner Music Group Corp        | Communication Servic |    32.93 | 1,184,530
+GBDC  | Golub Capital BDC Inc.         | Financial            |    15.53 | 1,717,370
+---------------------------------------------------------------------------------------------------------

@@ -428,3 +428,210 @@ ALLY  | Ally Financial Inc.            | Financial            |    35.78 | 3,950
 
 NASDAQ Bearish 50/200
 ---------------------------------------------------------------------------------------------------------
+2024-10-15 14:30:02.119148
+NYSE Bearish 50/200
+
+NASDAQ Bearish 50/200
+NSSC  | NAPCO Security Technologies, I | Technology           |    41.69 | 604,531
+---------------------------------------------------------------------------------------------------------
+2024-10-16 14:30:01.844319
+NYSE Bearish 50/200
+GFI   | Gold Fields Ltd.               | Materials            |    16.36 | 3,003,223
+WNS   | WNS Holdings Ltd.              | Industrial           |    49.73 | 489,636
+
+NASDAQ Bearish 50/200
+SRPT  | Sarepta Therapeutics, Inc.     | Health Care          |   125.92 | 596,307
+---------------------------------------------------------------------------------------------------------
+2024-10-17 14:30:01.727214
+NYSE Bearish 50/200
+RTO   | Rentokil Initial plc           | Industrial           |    24.56 | 1,549,971
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-10-18 14:30:01.766337
+NYSE Bearish 50/200
+PSTG  | Pure Storage, Inc.             | Technology           |    57.11 | 3,261,544
+TFII  | TFI International Inc.         | Industrial           |   137.66 | 202,239
+
+NASDAQ Bearish 50/200
+LSTR  | Landstar System, Inc.          | Industrial           |   187.60 | 194,823
+---------------------------------------------------------------------------------------------------------
+2024-10-21 14:30:01.992666
+NYSE Bearish 50/200
+
+NASDAQ Bearish 50/200
+INTU  | Intuit, Inc.                   | Technology           |   613.93 | 1,246,993
+---------------------------------------------------------------------------------------------------------
+2024-10-22 14:30:01.210429
+NYSE Bearish 50/200
+CNC   | Centene Corp.                  | Health Care          |    61.06 | 5,231,866
+NOG   | Northern Oil and Gas, Inc.     | Energy               |    37.67 | 671,475
+
+NASDAQ Bearish 50/200
+FANG  | Diamondback Energy, Inc.       | Energy               |   184.03 | 1,044,320
+---------------------------------------------------------------------------------------------------------
+2024-10-23 14:30:01.789778
+NYSE Bearish 50/200
+NVO   | Novo Nordisk A S               | Health Care          |   115.74 | 3,217,479
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-10-24 14:30:01.789673
+NYSE Bearish 50/200
+FRO   | Frontline Ltd.                 | Industrial           |    20.13 | 2,279,093
+
+NASDAQ Bearish 50/200
+GH    | Guardant Health Inc.           | Health Care          |    20.20 | 1,271,230
+---------------------------------------------------------------------------------------------------------
+2024-10-25 14:30:01.977524
+NYSE Bearish 50/200
+ELV   | Elevance Health, Inc.          | Health Care          |   425.27 | 2,088,305
+
+NASDAQ Bearish 50/200
+ADBE  | Adobe Systems, Inc.            | Technology           |   483.72 | 2,421,368
+FCFS  | First Cash                     | Financial            |   105.54 | 748,245
+---------------------------------------------------------------------------------------------------------
+2024-10-28 14:30:01.925463
+NYSE Bearish 50/200
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-10-29 14:30:01.314262
+NYSE Bearish 50/200
+HII   | Huntington Ingalls Industries  | Industrial           |   253.76 | 320,035
+BIRK  | Birkenstock Holding Ltd.       | Consumer Discretiona |    47.69 | 1,340,139
+LEVI  | Levi Strauss & Co.             | Consumer Discretiona |    17.39 | 2,070,254
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-10-30 14:30:01.561005
+NYSE Bearish 50/200
+TTE   | TotalEnergies SE               | Energy               |    63.57 | 4,198,023
+VDE   | Vanguard Energy ETF            |                      |   123.03 | 256,502
+
+NASDAQ Bearish 50/200
+TRMD  | Torm Plc                       | Industrial           |    26.10 | 1,387,152
+---------------------------------------------------------------------------------------------------------
+2024-10-31 14:30:01.233676
+NYSE Bearish 50/200
+HSY   | Hershey Foods Corp.            | Consumer Staples     |   177.58 | 1,472,548
+CNQ   | Canadian Natural Resources Ltd | Energy               |    34.02 | 4,513,832
+FL    | Foot Locker, Inc.              | Consumer Discretiona |    23.19 | 3,647,485
+HOG   | Harley Davidson Inc            | Consumer Discretiona |    31.95 | 1,307,396
+
+NASDAQ Bearish 50/200
+OPCH  | Option Care Health Inc.        | Health Care          |    23.04 | 5,174,544
+---------------------------------------------------------------------------------------------------------
+2024-11-01 14:30:01.245496
+NYSE Bearish 50/200
+XLE   | Energy Select Sector SPDR Fund |                      |    88.03 | 13,029,242
+SHEL  | Shell Plc                      | Energy               |    67.49 | 8,518,157
+GSK   | GSK Plc                        | Health Care          |    36.88 | 6,713,594
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-11-04 14:30:01.210145
+NYSE Bearish 50/200
+COR   | Cencora Inc.                   | Health Care          |   233.89 | 1,021,280
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-11-05 14:30:01.575791
+NYSE Bearish 50/200
+ADM   | Archer Daniels Midland Co.     | Consumer Staples     |    52.00 | 9,033,883
+
+NASDAQ Bearish 50/200
+RPRX  | Royalty Pharma Plc             | Health Care          |    27.54 | 1,820,004
+---------------------------------------------------------------------------------------------------------
+2024-11-06 14:30:02.001811
+NYSE Bearish 50/200
+IQV   | Iqvia Holdings, Inc.           | Health Care          |   221.25 | 2,040,275
+OGN   | Organon & Co.                  | Health Care          |    15.80 | 5,395,038
+
+NASDAQ Bearish 50/200
+ICLN  | iShares Global Clean Energy ET |                      |    12.51 | 13,947,668
+---------------------------------------------------------------------------------------------------------
+2024-11-07 14:30:01.309714
+NYSE Bearish 50/200
+AVY   | Avery Dennison Corp.           | Materials            |   205.45 | 421,055
+
+NASDAQ Bearish 50/200
+CROX  | Crocs, Inc.                    | Consumer Discretiona |   101.86 | 1,789,520
+---------------------------------------------------------------------------------------------------------
+2024-11-08 14:30:01.212837
+NYSE Bearish 50/200
+EVH   | Evolent Health, Inc.           | Technology           |    13.36 | 20,315,942
+CP    | Canadian Pacific Kansas City L | Industrial           |    77.59 | 2,909,330
+ANF   | Abercrombie & Fitch Co.        | Consumer Discretiona |   143.97 | 1,163,414
+XYL   | Xylem Inc.                     | Industrial           |   124.37 | 884,521
+KMX   | Carmax Inc.                    | Consumer Discretiona |    75.54 | 1,390,771
+FUL   | H. B. Fuller Co.               | Materials            |    77.79 | 363,327
+
+NASDAQ Bearish 50/200
+KLAC  | KLA Corp.                      | Technology           |   687.41 | 1,143,947
+SPSC  | SPS Commerce, Inc.             | Technology           |   185.23 | 210,972
+---------------------------------------------------------------------------------------------------------
+2024-11-11 14:30:01.877435
+NYSE Bearish 50/200
+TGT   | Target Corp.                   | Consumer Staples     |   153.28 | 3,539,960
+AES   | AES Corp.                      | Utilities            |    13.89 | 21,722,320
+YUM   | Yum! Brands Inc.               | Consumer Discretiona |   136.62 | 1,732,092
+FND   | Floor & Decor Holdings, Inc.   | Consumer Discretiona |   104.26 | 1,833,333
+SPR   | Spirit AeroSystems Holdings In | Industrial           |    31.01 | 2,524,978
+
+NASDAQ Bearish 50/200
+SOXX  | iShares Semiconductor ETF      |                      |   225.57 | 4,225,888
+---------------------------------------------------------------------------------------------------------
+2024-11-12 14:30:01.643850
+NYSE Bearish 50/200
+BAX   | Baxter Intl Inc.               | Health Care          |    33.83 | 6,111,799
+ARE   | Alexandria R E Eqty, Inc.      | Real Estate          |   108.33 | 1,033,469
+REXR  | Rexford Industrial Realty, Inc | Real Estate          |    41.41 | 2,285,052
+
+NASDAQ Bearish 50/200
+REGN  | Regeneron Pharmaceuticals, Inc | Health Care          |   821.00 | 677,240
+---------------------------------------------------------------------------------------------------------
+2024-11-13 14:30:01.294641
+NYSE Bearish 50/200
+ONTO  | Onto Innovation Inc            | Technology           |   164.74 | 843,135
+VIXY  | ProShares VIX Short-Term Futur |                      |    42.92 | 1,633,557
+
+NASDAQ Bearish 50/200
+TER   | Teradyne, Inc.                 | Technology           |   106.38 | 1,857,585
+FOLD  | Amicus Therapeutics, Inc.      | Health Care          |    10.37 | 2,646,164
+---------------------------------------------------------------------------------------------------------
+2024-11-14 14:30:02.035753
+NYSE Bearish 50/200
+CI    | CIGNA Corp.                    | Health Care          |   323.88 | 1,813,118
+SKX   | Skechers Usa, Inc.             | Consumer Discretiona |    61.57 | 1,466,778
+INVH  | Invitation Homes Inc.          | Real Estate          |    33.54 | 2,459,989
+FLO   | Flowers Foods, Inc.            | Consumer Staples     |    21.83 | 1,674,297
+
+NASDAQ Bearish 50/200
+LCID  | Lucid Group, Inc.              | Consumer Discretiona |     2.08 | 68,536,779
+LNW   | Light & Wonder Inc.            | Consumer Discretiona |    93.10 | 898,328
+TNDM  | Tandem Diabetes Care, Inc.     | Health Care          |    28.59 | 2,158,040
+NEOG  | Neogen Corp.                   | Health Care          |    14.64 | 1,829,799
+---------------------------------------------------------------------------------------------------------
+2024-11-15 14:30:01.443558
+NYSE Bearish 50/200
+CHE   | Chemed Corp.                   | Health Care          |   557.95 | 87,894
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------
+2024-11-18 14:30:01.571157
+NYSE Bearish 50/200
+IPG   | Interpublic Grp Of Cos         | Communication Servic |    27.52 | 6,701,983
+UMC   | United Microelectronics, Inc.  | Technology           |     6.94 | 12,916,844
+
+NASDAQ Bearish 50/200
+KHC   | Kraft Heinz Co.                | Consumer Staples     |    31.07 | 10,845,672
+NVMI  | Nova Measuring Instruments Ltd | Technology           |   177.21 | 177,307
+PSEC  | Prospect Capital Corp.         | Financial            |     4.51 | 4,833,845
+---------------------------------------------------------------------------------------------------------
+2024-11-19 14:30:01.568788
+NYSE Bearish 50/200
+
+NASDAQ Bearish 50/200
+AZN   | Astrazeneca PLC                | Health Care          |    63.80 | 4,868,416
+---------------------------------------------------------------------------------------------------------
