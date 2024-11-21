@@ -731,3 +731,14 @@ ANSS  | ANSYS, Inc.                    | Technology           |   342.24 | 460,0
 MDGL  | Madrigal Pharmaceuticals, Inc. | Health Care          |   317.09 | 277,156
 JAZZ  | Jazz Pharmaceuticals, Inc.     | Health Care          |   119.24 | 406,858
 ---------------------------------------------------------------------------------------------------------
+2024-11-21 14:30:01.251408
+NYSE Bullish 50/200
+NVT   | nVent Electric plc.            | Technology           |    77.96 | 1,919,562
+AZEK  | AZEK Company Inc               | Industrial           |    49.81 | 2,454,040
+NXE   | NexGen Energy Ltd.             | Materials            |     8.73 | 7,758,243
+NOG   | Northern Oil and Gas, Inc.     | Energy               |    42.34 | 1,026,547
+MT    | ArcelorMittal SA               | Materials            |    25.29 | 1,266,919
+
+NASDAQ Bullish 50/200
+CPRT  | Copart, Inc.                   | Industrial           |    56.90 | 8,735,453
+---------------------------------------------------------------------------------------------------------
