@@ -652,3 +652,11 @@ NYSE Bearish 50/200
 NASDAQ Bearish 50/200
 WING  | Wingstop Inc.                  | Consumer Discretiona |   338.41 | 525,279
 ---------------------------------------------------------------------------------------------------------
+2024-11-22 14:30:01.929585
+NYSE Bearish 50/200
+TMO   | Thermo Fisher Scientific Inc.  | Health Care          |   513.26 | 1,828,882
+ITUB  | Itau Unibanco Banco Multiplo S | Financial            |     5.85 | 13,116,242
+
+NASDAQ Bearish 50/200
+PEP   | PepsiCo, Inc.                  | Consumer Staples     |   162.00 | 5,329,715
+---------------------------------------------------------------------------------------------------------

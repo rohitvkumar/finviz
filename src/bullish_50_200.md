@@ -742,3 +742,17 @@ MT    | ArcelorMittal SA               | Materials            |    25.29 | 1,266
 NASDAQ Bullish 50/200
 CPRT  | Copart, Inc.                   | Industrial           |    56.90 | 8,735,453
 ---------------------------------------------------------------------------------------------------------
+2024-11-22 14:30:01.930374
+NYSE Bullish 50/200
+HUBS  | HubSpot Inc.                   | Technology           |   742.61 | 651,406
+BE    | Bloom Energy Corp.             | Industrial           |    25.76 | 10,523,766
+IEX   | Idex Corp.                     | Industrial           |   232.50 | 409,913
+TS    | Tenaris SA                     | Materials            |    37.42 | 1,479,517
+GPOR  | Gulfport Energy Corp.          | Energy               |   176.77 | 245,014
+SAM   | Boston Beer Co. Cl A           | Consumer Staples     |   312.80 | 113,773
+
+NASDAQ Bullish 50/200
+AAL   | American Airlines Group Inc.   | Industrial           |    14.38 | 19,995,028
+LI    | Li Auto Inc.                   | Consumer Discretiona |    22.28 | 4,588,396
+RELY  | Remitly Global Inc.            | Financial            |    21.04 | 1,787,382
+---------------------------------------------------------------------------------------------------------
