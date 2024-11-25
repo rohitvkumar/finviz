@@ -756,3 +756,17 @@ AAL   | American Airlines Group Inc.   | Industrial           |    14.38 | 19,99
 LI    | Li Auto Inc.                   | Consumer Discretiona |    22.28 | 4,588,396
 RELY  | Remitly Global Inc.            | Financial            |    21.04 | 1,787,382
 ---------------------------------------------------------------------------------------------------------
+2024-11-25 14:30:01.637853
+NYSE Bullish 50/200
+MLM   | Martin Marietta Materials      | Industrial           |   604.00 | 760,659
+TAP   | Molson Coors Brewing Co.       | Consumer Staples     |    60.67 | 2,848,237
+
+NASDAQ Bullish 50/200
+WDAY  | Workday, Inc.                  | Technology           |   267.69 | 3,339,590
+CSX   | CSX Corp.                      | Industrial           |    36.62 | 14,510,052
+MNST  | Monster Beverage Corp.         | Consumer Staples     |    54.98 | 7,136,917
+HSIC  | Henry Schein, Inc.             | Health Care          |    76.84 | 2,882,571
+SAIA  | SAIA Inc.                      | Industrial           |   557.27 | 308,398
+SMPL  | The Simply Good Foods Co.      | Consumer Staples     |    39.84 | 1,210,912
+MGRC  | McGrath RentCorp               | Industrial           |   121.49 | 220,382
+---------------------------------------------------------------------------------------------------------

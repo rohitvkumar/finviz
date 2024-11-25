@@ -660,3 +660,13 @@ ITUB  | Itau Unibanco Banco Multiplo S | Financial            |     5.85 | 13,11
 NASDAQ Bearish 50/200
 PEP   | PepsiCo, Inc.                  | Consumer Staples     |   162.00 | 5,329,715
 ---------------------------------------------------------------------------------------------------------
+2024-11-25 14:30:01.636838
+NYSE Bearish 50/200
+BCE   | BCE, Inc.                      | Communication Servic |    27.02 | 3,206,129
+COLD  | Americold Realty Trust         | Real Estate          |    24.00 | 2,488,720
+FCN   | FTI Consulting, Inc.           | Industrial           |   204.10 | 263,365
+QGEN  | Qiagen N.V.                    | Health Care          |    43.25 | 797,329
+
+NASDAQ Bearish 50/200
+NSIT  | Insight Enterprises, Inc.      | Technology           |   154.97 | 431,064
+---------------------------------------------------------------------------------------------------------
