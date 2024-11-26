@@ -770,3 +770,13 @@ SAIA  | SAIA Inc.                      | Industrial           |   557.27 | 308,3
 SMPL  | The Simply Good Foods Co.      | Consumer Staples     |    39.84 | 1,210,912
 MGRC  | McGrath RentCorp               | Industrial           |   121.49 | 220,382
 ---------------------------------------------------------------------------------------------------------
+2024-11-26 14:30:01.225777
+NYSE Bullish 50/200
+CVX   | Chevron Corp.                  | Energy               |   162.53 | 7,303,557
+AI    | C3.ai Inc.                     | Technology           |    36.36 | 5,930,189
+
+NASDAQ Bullish 50/200
+COIN  | Coinbase Global Inc.           | Technology           |   293.29 | 13,027,652
+PCAR  | PACCAR, Inc.                   | Industrial           |   115.82 | 2,236,216
+GH    | Guardant Health Inc.           | Health Care          |    34.37 | 1,912,217
+---------------------------------------------------------------------------------------------------------
