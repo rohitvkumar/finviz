@@ -780,3 +780,12 @@ COIN  | Coinbase Global Inc.           | Technology           |   293.29 | 13,02
 PCAR  | PACCAR, Inc.                   | Industrial           |   115.82 | 2,236,216
 GH    | Guardant Health Inc.           | Health Care          |    34.37 | 1,912,217
 ---------------------------------------------------------------------------------------------------------
+2024-11-27 14:30:02.035658
+NYSE Bullish 50/200
+U     | Unity Software Inc.            | Technology           |    23.47 | 6,164,401
+YETI  | Yeti Holdings Inc.             | Consumer Discretiona |    40.33 | 1,026,626
+
+NASDAQ Bullish 50/200
+CRWD  | CrowdStrike Holdings, Inc.     | Technology           |   347.59 | 10,738,420
+ZS    | Zscaler, Inc.                  | Technology           |   204.96 | 1,521,532
+---------------------------------------------------------------------------------------------------------
