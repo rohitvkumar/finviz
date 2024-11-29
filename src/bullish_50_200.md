@@ -798,3 +798,11 @@ NASDAQ Bullish 50/200
 CRWD  | CrowdStrike Holdings, Inc.     | Technology           |   347.59 | 10,807,689
 ZS    | Zscaler, Inc.                  | Technology           |   204.96 | 1,559,086
 ---------------------------------------------------------------------------------------------------------
+2024-11-29 14:30:01.758954
+NYSE Bullish 50/200
+YUM   | Yum! Brands Inc.               | Consumer Discretiona |   138.94 | 1,003,241
+RS    | Reliance Steel & Aluminum      | Materials            |   321.24 | 173,954
+
+NASDAQ Bullish 50/200
+MLCO  | Melco Resorts & Entertainment  | Consumer Discretiona |     6.42 | 3,327,318
+---------------------------------------------------------------------------------------------------------

@@ -688,3 +688,16 @@ DHR   | Danaher Corp.                  | Health Care          |   238.83 | 2,271
 
 NASDAQ Bearish 50/200
 ---------------------------------------------------------------------------------------------------------
+2024-11-29 14:30:01.753433
+NYSE Bearish 50/200
+BDX   | Becton Dickinson and Co.       | Health Care          |   221.90 | 1,210,254
+CAG   | ConAgra Brands, Inc.           | Consumer Staples     |    27.55 | 4,236,925
+TFX   | Teleflex, Inc.                 | Health Care          |   192.85 | 400,527
+FEZ   | SPDR EURO STOXX 50 ETF         |                      |    48.57 | 1,304,642
+
+NASDAQ Bearish 50/200
+MSFT  | Microsoft Corp.                | Technology           |   423.46 | 16,327,629
+VKTX  | Viking Therapeutics, Inc.      | Health Care          |    52.94 | 1,535,032
+RUN   | Sunrun Inc.                    | Technology           |    11.53 | 4,634,853
+TECH  | Bio-Techne Corporation         | Health Care          |    75.36 | 500,367
+---------------------------------------------------------------------------------------------------------
