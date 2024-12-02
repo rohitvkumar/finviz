@@ -701,3 +701,11 @@ VKTX  | Viking Therapeutics, Inc.      | Health Care          |    52.94 | 1,535
 RUN   | Sunrun Inc.                    | Technology           |    11.53 | 4,634,853
 TECH  | Bio-Techne Corporation         | Health Care          |    75.36 | 500,367
 ---------------------------------------------------------------------------------------------------------
+2024-12-02 14:30:02.005652
+NYSE Bearish 50/200
+STE   | Steris plc                     | Health Care          |   218.86 | 606,878
+OSCR  | Oscar Health Inc.              | Health Care          |    18.43 | 6,364,903
+BBD   | Banco Bradesco                 | Financial            |     2.08 | 41,108,828
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------

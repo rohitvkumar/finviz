@@ -806,3 +806,10 @@ RS    | Reliance Steel & Aluminum      | Materials            |   321.24 | 173,9
 NASDAQ Bullish 50/200
 MLCO  | Melco Resorts & Entertainment  | Consumer Discretiona |     6.42 | 3,327,318
 ---------------------------------------------------------------------------------------------------------
+2024-12-02 14:30:02.006619
+NYSE Bullish 50/200
+GTLS  | Chart Industries Inc.          | Energy               |   192.25 | 745,971
+
+NASDAQ Bullish 50/200
+PYCR  | Paycor HCM Inc.                | Technology           |    18.45 | 1,163,446
+---------------------------------------------------------------------------------------------------------
