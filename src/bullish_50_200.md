@@ -813,3 +813,11 @@ GTLS  | Chart Industries Inc.          | Energy               |   192.25 | 745,9
 NASDAQ Bullish 50/200
 PYCR  | Paycor HCM Inc.                | Technology           |    18.45 | 1,163,446
 ---------------------------------------------------------------------------------------------------------
+2024-12-03 14:30:01.407312
+NYSE Bullish 50/200
+
+NASDAQ Bullish 50/200
+RIOT  | Riot Platforms, Inc.           | Technology           |    12.14 | 18,141,717
+VCEL  | Vericel Corp.                  | Health Care          |    58.24 | 517,604
+SIGI  | Selective Insurance Group, Inc | Financial            |    99.48 | 218,922
+---------------------------------------------------------------------------------------------------------

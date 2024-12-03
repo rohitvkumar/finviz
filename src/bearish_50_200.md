@@ -709,3 +709,15 @@ BBD   | Banco Bradesco                 | Financial            |     2.08 | 41,10
 
 NASDAQ Bearish 50/200
 ---------------------------------------------------------------------------------------------------------
+2024-12-03 14:30:01.406371
+NYSE Bearish 50/200
+DKS   | Dick's Sporting Goods Inc.     | Consumer Discretiona |   209.49 | 1,828,727
+BUD   | Anheuser-Busch InBev ADR       | Consumer Staples     |    53.87 | 2,386,003
+EZU   | iShares MSCI Eurozone ETF      |                      |    48.15 | 1,520,764
+
+NASDAQ Bearish 50/200
+MDLZ  | Mondelez International, Inc.   | Consumer Staples     |    64.81 | 6,820,373
+FSLR  | First Solar Inc.               | Technology           |   207.51 | 1,902,674
+AMED  | Amedisys                       | Health Care          |    86.27 | 2,110,883
+IAC   | InterActiveCorp                | Communication Servic |    48.25 | 468,150
+---------------------------------------------------------------------------------------------------------
