@@ -721,3 +721,11 @@ FSLR  | First Solar Inc.               | Technology           |   207.51 | 1,902
 AMED  | Amedisys                       | Health Care          |    86.27 | 2,110,883
 IAC   | InterActiveCorp                | Communication Servic |    48.25 | 468,150
 ---------------------------------------------------------------------------------------------------------
+2024-12-04 14:30:01.812691
+NYSE Bearish 50/200
+PLD   | ProLogis, Inc.                 | Real Estate          |   115.05 | 3,735,990
+
+NASDAQ Bearish 50/200
+CRUS  | Cirrus Logic, Inc.             | Technology           |   103.70 | 585,526
+NVAX  | Novavax, Inc.                  | Health Care          |     8.30 | 3,982,022
+---------------------------------------------------------------------------------------------------------

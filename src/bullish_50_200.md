@@ -821,3 +821,12 @@ RIOT  | Riot Platforms, Inc.           | Technology           |    12.14 | 18,14
 VCEL  | Vericel Corp.                  | Health Care          |    58.24 | 517,604
 SIGI  | Selective Insurance Group, Inc | Financial            |    99.48 | 218,922
 ---------------------------------------------------------------------------------------------------------
+2024-12-04 14:30:01.813621
+NYSE Bullish 50/200
+ARCH  | Arch Coal, Inc.                | Energy               |   164.18 | 174,410
+
+NASDAQ Bullish 50/200
+MARA  | Marathon Digital Holdings Inc  | Industrial           |    25.96 | 67,880,318
+LYFT  | Lyft Inc.                      | Technology           |    17.24 | 10,221,045
+NARI  | Inari Medical Inc.             | Health Care          |    52.20 | 554,439
+---------------------------------------------------------------------------------------------------------
