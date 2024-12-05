@@ -729,3 +729,11 @@ NASDAQ Bearish 50/200
 CRUS  | Cirrus Logic, Inc.             | Technology           |   103.70 | 585,526
 NVAX  | Novavax, Inc.                  | Health Care          |     8.30 | 3,982,022
 ---------------------------------------------------------------------------------------------------------
+2024-12-05 14:30:01.502950
+NYSE Bearish 50/200
+PFE   | Pfizer, Inc.                   | Health Care          |    25.70 | 41,969,480
+MMS   | Maximus, Inc.                  | Industrial           |    73.84 | 936,819
+DFH   | Dream Finders Homes Inc.       | Consumer Discretiona |    31.18 | 917,573
+
+NASDAQ Bearish 50/200
+---------------------------------------------------------------------------------------------------------

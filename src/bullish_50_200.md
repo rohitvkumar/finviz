@@ -830,3 +830,12 @@ MARA  | Marathon Digital Holdings Inc  | Industrial           |    25.96 | 67,88
 LYFT  | Lyft Inc.                      | Technology           |    17.24 | 10,221,045
 NARI  | Inari Medical Inc.             | Health Care          |    52.20 | 554,439
 ---------------------------------------------------------------------------------------------------------
+2024-12-05 14:30:01.503662
+NYSE Bullish 50/200
+PCOR  | Procore Technologies Inc.      | Technology           |    84.51 | 2,603,228
+AL    | Air Lease Corp.                | Industrial           |    50.60 | 494,954
+
+NASDAQ Bullish 50/200
+DKNG  | DraftKings Inc                 | Consumer Discretiona |    44.84 | 6,026,723
+CGON  | CG Oncology Inc.               | Health Care          |    33.56 | 1,814,009
+---------------------------------------------------------------------------------------------------------
