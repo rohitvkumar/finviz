@@ -839,3 +839,12 @@ NASDAQ Bullish 50/200
 DKNG  | DraftKings Inc                 | Consumer Discretiona |    44.84 | 6,026,723
 CGON  | CG Oncology Inc.               | Health Care          |    33.56 | 1,814,009
 ---------------------------------------------------------------------------------------------------------
+2024-12-06 14:30:01.238748
+NYSE Bullish 50/200
+DIS   | Walt Disney Co.                | Communication Servic |   116.73 | 6,654,156
+MCK   | McKesson Corp.                 | Health Care          |   603.53 | 730,081
+KMX   | Carmax Inc.                    | Consumer Discretiona |    86.23 | 4,637,088
+ANF   | Abercrombie & Fitch Co.        | Consumer Discretiona |   151.35 | 1,518,198
+
+NASDAQ Bullish 50/200
+---------------------------------------------------------------------------------------------------------

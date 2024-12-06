@@ -737,3 +737,11 @@ DFH   | Dream Finders Homes Inc.       | Consumer Discretiona |    31.18 | 917,5
 
 NASDAQ Bearish 50/200
 ---------------------------------------------------------------------------------------------------------
+2024-12-06 14:30:01.238088
+NYSE Bearish 50/200
+FCX   | Freeport-McMoRan, Inc.         | Materials            |    42.07 | 9,177,606
+ARW   | Arrow Electronics Inc.         | Technology           |   120.49 | 268,508
+
+NASDAQ Bearish 50/200
+MPWR  | Monolithic Power Systems, Inc. | Technology           |   589.68 | 732,422
+---------------------------------------------------------------------------------------------------------
