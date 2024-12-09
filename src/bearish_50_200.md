@@ -745,3 +745,14 @@ ARW   | Arrow Electronics Inc.         | Technology           |   120.49 | 268,5
 NASDAQ Bearish 50/200
 MPWR  | Monolithic Power Systems, Inc. | Technology           |   589.68 | 732,422
 ---------------------------------------------------------------------------------------------------------
+2024-12-09 14:30:01.749775
+NYSE Bearish 50/200
+ANF   | Abercrombie & Fitch Co.        | Consumer Discretiona |   140.07 | 2,713,796
+EFG   | iShares MSCI EAFE Growth ETF   |                      |   103.07 | 655,402
+IBP   | Installed Building Products In | Industrial           |   218.09 | 178,398
+ING   | Ing Groep NV ADR               | Financial            |    15.88 | 2,228,363
+ZROZ  | PIMCO 25+ Year Zero Coupon U.S |                      |    77.24 | 296,727
+
+NASDAQ Bearish 50/200
+MRUS  | Merus BV                       | Health Care          |    43.74 | 1,208,311
+---------------------------------------------------------------------------------------------------------

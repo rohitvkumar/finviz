@@ -848,3 +848,10 @@ ANF   | Abercrombie & Fitch Co.        | Consumer Discretiona |   151.35 | 1,518
 
 NASDAQ Bullish 50/200
 ---------------------------------------------------------------------------------------------------------
+2024-12-09 14:30:01.750741
+NYSE Bullish 50/200
+MNSO  | MINISO Group Holding Ltd.      | Consumer Discretiona |    24.71 | 3,196,240
+
+NASDAQ Bullish 50/200
+MIDD  | Middleby Corp.                 | Consumer Discretiona |   142.76 | 364,249
+---------------------------------------------------------------------------------------------------------
